@@ -3,15 +3,15 @@
 JSON = '''
 {
 
-    "surname": "Иванов"
+    "surname": "Иванов",
 
-    "name": "Иван"
+    "name": "Иван",
 
-    "patronymic": "Иванович"
+    "patronymic": "Иванович",
 
-    "birthdate": "01.01.1990"
+    "birthdate": "01.01.1990",
 
-    "birthplace": "Москва"
+    "birthplace": "Москва",
 
     "phone": "8 926 766 48 48"
 
